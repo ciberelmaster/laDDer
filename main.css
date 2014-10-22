@@ -1,4 +1,4 @@
-.nav a {
+.nav nav-tabs a {
           color: #5a5a5a;
           font-size: 16px;
           font-weight: bold;
@@ -9,7 +9,7 @@
           text-transform: uppercase;
   }
   
-  .nav li {
+  .nav nav-tabs li {
           display: inline;
   }
   
