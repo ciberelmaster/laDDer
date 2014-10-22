@@ -1,0 +1,41 @@
+.nav a {
+          color: #5a5a5a;
+          font-size: 16px;
+          font-weight: bold;
+          padding-top: 16px;
+          padding-bottom: 16px;
+          padding-left: 12px;
+          padding-right: 12px;
+          text-transform: uppercase;
+  }
+  
+.jumbotron {
+          height: 500px;
+          background-image: url(http://img.xatakafoto.com/2011/12/turbulenceii.jpg)
+  }
+
+.jumbotron h1 {
+          color: #fff;
+          font-size: 58px;
+          fond-weight: bold;
+          fond-family: Shift;
+}
+
+.jumbotron p {
+          color: #fff;
+          font-size: 30px;
+}
+
+.learn-more {
+          background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+          font-family: Shift;
+          font-size: 19px;
+          font-weight: bold;
+}
+
+.learn-more a {
+          color: #00b0ff;
+}
