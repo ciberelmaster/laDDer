@@ -9,9 +9,18 @@
           text-transform: uppercase;
   }
   
+  .nav li {
+          display: inline;
+  }
+  
 .jumbotron {
           height: 500px;
           background-image: url(http://img.xatakafoto.com/2011/12/turbulenceii.jpg)
+  }
+  
+  .jumbotron .container {
+          position: reltive;
+          top: 100px;
   }
 
 .jumbotron h1 {
